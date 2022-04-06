@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+form {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+  width: 500px;
+}
